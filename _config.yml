@@ -9,13 +9,13 @@ description: A fancy description of the site
 background: "images/background.jpg"
 
 # Site logo
-logo: "images/logo.png"
+logo: "images/A Coconut Tree Logo.png"
 
 # Countdown clock
 # (This can be commented out if not required.)
 countdown:
   # format: "2013-09-25 16:00:00 +0800"
-  launch_date: 2025-01-01
+  launch_date: 2020-01-01
   # %d, %H, %M, %S available
   format: "%d days, %H hours, %M minutes, %S seconds"
 
